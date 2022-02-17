@@ -1,0 +1,21 @@
+{
+  "name": "linz-playwright",
+  "version": "1.0.0",
+  "description": "For Linz Test Automation Engineer 02_2022",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashikajayasinghe/linz-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashikajayasinghe/linz-playwright/issues"
+  },
+  "homepage": "https://github.com/yashikajayasinghe/linz-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.16.1"
+  }
+}
